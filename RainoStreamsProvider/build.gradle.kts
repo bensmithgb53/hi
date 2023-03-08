@@ -21,5 +21,5 @@ cloudstream {
         "Live",
     )
 
-    iconUrl = "https://www.google.com/s2/favicons?domain=rainostreams.com&sz=%size%"
+    iconUrl = "https://www.google.com/s2/favicons?domain=methstreams.me/&sz=%size%"
 }
