@@ -12,8 +12,8 @@ class RainoStreamsProvider : MainAPI() {
     )
     override var lang = "en"
 
-    override var mainUrl = "http://rainostreams.com/"
-    override var name = "RainoStreams"
+    override var mainUrl = "https://methstreams.me/"
+    override var name = "MethStreams"
 
     override val hasMainPage = true
 
